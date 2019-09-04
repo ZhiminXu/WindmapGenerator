@@ -34,14 +34,14 @@ options:
 
 # Example
 
-Some uwnd file convereted to TIFF format
+Some uwnd file convereted to TIFF format:
+![](./images/uwnd.png)
 
+And some vwnd file:
+![](./images/vwnd.png)
 
-And some vwnd file
-
-
-
-Windmap image generated
+Windmap image generated:
+![](./images/windmap.png)
 
 
 
